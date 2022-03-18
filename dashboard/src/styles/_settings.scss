@@ -1,0 +1,17 @@
+/* ici on met les différents styles ,fonts, background etc ...  général ! */
+
+
+
+@font-face {
+  font-family: "font-1";
+  src: url("./src/assets/font/static/");
+}
+@font-face {
+  font-family: "font-2";
+  src: url('./assets/fonts/JosefinSans-Regular.ttf');
+}
+
+$font-1: "font-1", sans-serif;
+$font-2: "font-2", serif;
+
+
